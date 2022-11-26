@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="HeroNeos" size="0.059000 0.085922" />
+    <ImageTarget name="Relinquished" size="0.059000 0.085682" />
+    <ImageTarget name="PotofGreed" size="0.059000 0.086042" />
+    <ImageTarget name="Kingler" size="0.063000 0.088680" />
+  </Tracking>
+</QCARConfig>
